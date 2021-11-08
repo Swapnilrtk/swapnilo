@@ -64,16 +64,17 @@ body{
 	bottom:5%;
 }
 #chatButton{
+        color="yellow";
 	position:fixed;
 	bottom:5.5%;
 	left:75%;
-	width: 20%;
-	height:7%;
+	width: 1%;
+	height:4%;
 }
 
 #trainArea{
 	height:35%;
-	background-color: #cccccc;
+	background-color: pink;
 	width:100%;
 	position: fixed;
 	display:none;
